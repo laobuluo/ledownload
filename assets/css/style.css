@@ -1,0 +1,40 @@
+.ledownload-container {
+    display: flex;
+    align-items: center;
+    gap: 30px;
+}
+
+.ledownload-icon {
+    flex-shrink: 0;
+    width: 60px;
+    height: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.ledownload-icon img {
+    max-width: 100%;
+    height: auto;
+}
+
+.ledownload-content {
+    flex: 1;
+    min-width: 0;
+}
+
+.ledownload-button-wrapper {
+    flex-shrink: 0;
+    margin-left: auto;
+}
+
+.ledownload-button:hover {
+    background: #357ABD;
+    transform: translateY(-1px);
+    box-shadow: 0 4px 8px rgba(74,144,226,0.3);
+}
+
+a.ledownload-button {
+    text-decoration: none;
+    color: #fff;
+  }
