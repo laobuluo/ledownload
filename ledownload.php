@@ -1,11 +1,11 @@
 <?php
 /**
  * Plugin Name: LeDownLoad
- * Plugin URI: https://www.lezaiyun.com/879.html
+ * Plugin URI: https://www.laojiang.me/6070.html
  * Description: 一款美观的WordPress单页文件下载插件，支持自定义下载参数和样式设置。（公众号：老蒋朋友圈）
  * Version: 1.0.0
  * Author: 老蒋和他的小伙伴
- * Author URI: https://www.lezaiyun.com
+ * Author URI: https://www.laojiang.me
  * License: GPL v2 or later
  * License URI: https://www.gnu.org/licenses/gpl-2.0.html
  * Text Domain: ledownload

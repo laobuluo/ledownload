@@ -1,7 +1,7 @@
 === LeDownLoad ===
 
 Contributors: laobuluo
-Donate link: https://www.lezaiyun.com/donate/
+Donate link: https://www.laojiang.me/donate/
 Tags: WordPress下载插件
 Requires at least: 4.5.0
 Tested up to: 6.8.1
@@ -19,7 +19,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 * 自定义内容页面中文件下载。
 * 启动后下载文件附注在文章底部，美观的下载框架。
 * 可自定义下载模块样式。
-* 插件安装和介绍：https://www.lezaiyun.com/879.html
+* 插件安装和介绍：https://www.laojiang.me/6070.html
 
 ## 网站支持
 

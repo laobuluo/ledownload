@@ -27,7 +27,7 @@ function ledownload_settings_page() {
     ?>
     <div class="wrap">
         <h1><?php echo esc_html(get_admin_page_title()); ?></h1>
-        <p>下载插件的基本设置。插件详细介绍：<a href="https://www.lezaiyun.com/879.html" target="_blank">插件介绍</a>。公众号：老蒋朋友圈。</p>
+        <p>下载插件的基本设置。插件详细介绍：<a href="https://www.laojiang.me/6070.html" target="_blank">插件介绍</a>。公众号：老蒋朋友圈。</p>
         <form method="post" action="options.php">
             <?php
             settings_fields('ledownload_options');
